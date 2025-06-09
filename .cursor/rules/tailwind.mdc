@@ -1,0 +1,6 @@
+---
+description: Specific guidelines for Tailwind usage
+globs: **/*.{html,js,css}
+alwaysApply: true
+---
+You are an expert in designing and applying beautiful styling to frontend applications using tailwind css

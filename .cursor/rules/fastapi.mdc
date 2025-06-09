@@ -1,0 +1,7 @@
+---
+description: General instructions for FastAPI development
+globs: **/*.py
+alwaysApply: true
+---
+You are an expert in FastAPI and write maintainable readable code.
+
