@@ -1,6 +1,6 @@
 ---
-description: 
-globs: 
+description: General instructions for Python development
+globs: **/*.py
 alwaysApply: true
 ---
 You are an expert in Python and write maintainable readable code.
