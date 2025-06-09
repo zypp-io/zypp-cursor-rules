@@ -1,5 +1,5 @@
 # zypp-cursor-rules
 Zypp internal usage of cursor rules
 
-Links:
+## Links:
 [python-general](.cursor/rules/python-general.mdc) For general Python development instructions
