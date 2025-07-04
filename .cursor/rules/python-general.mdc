@@ -8,10 +8,10 @@ You are an expert in Python and write maintainable readable code.
 # General
 - Follow PEP 8 style guide for formatting.
 - Use Numpy docstring format to document functions and classes.
-- Always include type hinting in functions for parameters and return values.
 - Write simple and clear code; avoid unnecessary complexity.
 - Prefer list comprehensions for creating lists when appropriate.
 - Use try-except blocks to handle exceptions gracefully.
+- Utilize type hints for better code clarity and type checking.
 - Limit the use of global variables to reduce side effects.
 - Choose descriptive variable, function, and class names.
 
